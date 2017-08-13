@@ -1,0 +1,14 @@
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\obj\Debug\Com.SignerPDF.Resources.resources
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\obj\Debug\Com.SignerPDF.Tela.Popup.ConfiguraAssinador.resources
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\obj\Debug\Com.SignerPDF.Tela.TelaInicial.resources
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\obj\Debug\SignerPDF.vbproj.GenerateResource.Cache
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\bin\Debug\SignerPDF.exe.config
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\bin\Debug\app.config
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\bin\Debug\SignerPDF.exe
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\bin\Debug\SignerPDF.pdb
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\bin\Debug\SignerPDF.xml
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\obj\Debug\SignerPDF.vbprojResolveAssemblyReference.cache
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\obj\Debug\SignerPDF.exe
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\obj\Debug\SignerPDF.xml
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\obj\Debug\SignerPDF.pdb
+C:\Users\Supervisor\Documents\Visual Studio 2008\Projects\SignerPDF\SignerPDF\obj\Debug\Com.SignerPDF.AboutBoxSignerPDF.resources

@@ -1,0 +1,25 @@
+URX no canto superior direito coordenada x. (LARGURA) 200
+URy no canto superior direito coordenada y. (ALTURA) 200
+LLX canto inferior esquerdo coordenada x. 100
+LLY canto inferior esquerdo coordenada y. 90
+
+640 - 400 = 240 largura
+780 - 600 = 180 altura
+
+ALTURA =  LLY - URY = 780 - 740 = 40             x - 740 = 40
+LARGURA = LLX - URX = 200 - 100 = 100
+
+para ir para direita < LLX & < URX
+para cercer < LLY & < URY
+
+pag
+ALTURA: 841,8899
+LARGURA: 595,2756
+
+URY = %y
+LLY = URY + PHOTO largura
+LLX = %x 
+URX = LLX + PHOTO coprimento
+
+550, 80, 450, 40
+100, 745, 241, 500
